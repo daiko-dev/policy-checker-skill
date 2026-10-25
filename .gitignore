@@ -1,0 +1,36 @@
+# IDE / editor
+.claude/
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Skill packaging artifacts
+*.skill
+dist/
+build/
+
+# Logs
+*.log
