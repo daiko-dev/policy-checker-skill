@@ -1,4 +1,4 @@
-# policy-checker
+# POLICY-CHECKER
 
 A conversational skill that generates **complete, adapted legal documentation**
 for any application — web, mobile, desktop, or SaaS. It behaves like a
